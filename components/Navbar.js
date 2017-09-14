@@ -6,7 +6,7 @@ const Navbar = props => {
 		<header className="navbar">
 			<section className="navbar-section">
 				<Link href="/" prefetch>
-					<a className="navbar-brand mr-2">FeekNext</a>
+					<a className="navbar-brand mr-2">BazaarWhere</a>
 				</Link>
 			</section>
 
